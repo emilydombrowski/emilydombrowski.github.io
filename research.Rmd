@@ -1,0 +1,11 @@
+---
+title: "research"
+author: "Emily Dombrowski"
+date: "2026-07-01"
+output: html_document
+---
+
+## Research
+
+[![Research Summary Video: Mussel Memory](https://img.youtube.com/vi/vVnvR5vUshk/0.jpg)](https://www.youtube.com/watch?v=vVnvR5vUshk)
+
