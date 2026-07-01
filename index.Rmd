@@ -1,0 +1,34 @@
+---
+title: "Emily Dombrowski"
+about:
+    template: trestles
+    image-width: 15em
+    image-shape: round
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/emily-dombrowski-303579187
+        - icon: github
+          text: Github
+          url: https://github.com/emily-dombrowski
+        - text: "{{< fa envelope >}} emily.dombrowski@uvm.edu"
+          url: mailto:emily.dombrowski@uvm.edu
+image: img/bio_picture.jpg
+comments: false
+---
+
+## Bio
+
+I am a PhD candidate at the University of Vermont studying how marine organisms respond to climate change. I use systems of mussel species to understand the evolutionary and genomic responses of adaptation to warming ocean temperatures. 
+As a first generation college student, I am passionate about science communication and increasing inclusion in STEM. Alongside research, I participate in scientific outreach activities and community building for other students whose parents did not attend university. 
+
+## Research
+
+To understand how mussels adapt to climate change, I combine genomics, physiology, and experimental biology. My approach leverages existing natural systems to explore key questions in evolutionary biology, such as what factors maintain species hybrid zones and what tools do organisms use to adapt to rapid change. Addressing these questions furthers our understanding of both speciation and how organisms in general will respond to challenges such as climate change. 
+
+## Collaboration
+
+I collaborate locally with scientists in Vermont and globally with research labs, government organizations, and companies that raise mussels in Australia and France. If you are interested in developping a project together, please reach out via [email](mailto:emily.dombrowski@uvm.edu).
+
+
+
