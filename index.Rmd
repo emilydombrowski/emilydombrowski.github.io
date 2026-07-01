@@ -1,6 +1,6 @@
 ---
 title: "Emily Dombrowski"
-image: "bio_picture.jpg"
+image: "bio_picture.png"
 links:
   - label: Linkedin
     url: https://www.linkedin.com/in/emily-dombrowski-303579187
@@ -8,8 +8,8 @@ links:
     url: "https://github.com/emilydombrowski"
   - label: Email
     url: "mailto:emily.dombrowski@uvm.edu"
-output:
-  postcards::trestles
+site: rmarkdown::html_site
+output: postcards::trestles
 ---
 
 ## Bio
