@@ -1,4 +1,5 @@
 name: "emily-website"
+output_dir: "."
 navbar:
   title: "Emily Dombrowski"
   left:
@@ -10,5 +11,6 @@ navbar:
       href: cv.html
     - text: "Press"
       href: press.html
-#    - text: "Outreach"
-#      href: outreach.html
+output:
+  html_document:
+    self_contained: false
