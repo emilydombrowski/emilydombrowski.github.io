@@ -1,18 +1,16 @@
 ---
-title: "cv"
-author: "Emily Dombrowski"
-date: "2026-07-01"
 output: html_document
 ---
 
-## *Curiculum Vitae*
+## *Curriculum Vitae*
+
 <div style="margin-bottom: 20px;">
-  <a class="btn btn-primary" href="cv.pdf" download="Emily_Dombrowski_CV.pdf" role="button">
+  <a class="btn btn-primary" href="Emily_Dombrowski_CV.pdf" download="Emily_Dombrowski_CV.pdf" role="button">
     <i class="fa fa-download"></i> Download PDF CV
   </a>
 </div>
 
-<object data="cv.pdf" type="application/pdf" width="100%" height="800px">
+<object data="Emily_Dombrowski_CV.pdf" type="application/pdf" width="100%" height="800px">
   <p>It appears your web browser doesn't support embedded PDFs. 
-  You can <a href="cv.pdf">click here to download the PDF file.</a></p>
+  You can <a href="Emily_Dombrowski_CV.pdf">click here to download the PDF file.</a></p>
 </object>
