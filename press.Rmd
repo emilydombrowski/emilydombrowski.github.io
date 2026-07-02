@@ -2,11 +2,15 @@
 output: html_document
 ---
 
+<div style="text-align: center; margin-top: 10px; margin-bottom: 20px;">
+  <img src="larvae.png" alt="Larval mussels under a microscope" style="width: 100%; max-width: 800px; border-radius: 4px;">
+</div>
+
 # In press
 
 ## Lockwood Lab
 
-I am very lucky to be part of the Lockwood Lab at the University of Vermont. Read about my lab group and research in this article: [Pathways to Discovery: The Generations Behind a UVM Research Lab](https://www.uvm.edu/cas/biology/news/pathways-discovery-generations-behind-uvm-research-lab).
+I am very lucky to be part of the [Lockwood Lab](https://lockwoodlab.weebly.com/) at the University of Vermont. Read about my lab group and research in this article: [Pathways to Discovery: The Generations Behind a UVM Research Lab](https://www.uvm.edu/cas/biology/news/pathways-discovery-generations-behind-uvm-research-lab).
 
 ## Fellowships
 
