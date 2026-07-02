@@ -9,6 +9,18 @@ output: html_document
 
 [![Research Summary Video: Mussel Memory](https://img.youtube.com/vi/vVnvR5vUshk/0.jpg)](https://www.youtube.com/watch?v=vVnvR5vUshk)
 
+### Research Summary Video: Mussel Memory
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/vVnvR5vUshk/0" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
+
 ### What can hybrid zones tell us about how organisms respond to climate change?
 
 Studying natural hybrid species gives scientists a window of understanding into how organisms respond to stressful situations. Hybridization occurs when two closely related species can reproduce and have offspring that successfully make it to adulthood. This phenomenon is widely spread across the plant and animal world. Naturally occurring hybrids provide scientists with really clear ideas about what factors cause species to differentiate and what genetic responses create new traits. 
