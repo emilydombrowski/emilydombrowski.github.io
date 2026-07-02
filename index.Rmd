@@ -11,6 +11,9 @@ links:
 output: 
   postcards::trestles
 ---
+<div style="float: left; margin-right: 25px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="bio_picture.png" alt="Emily Dombrowski" style="width: 15em; border-radius: 50%;">
+</div>
 
 ## Bio
 

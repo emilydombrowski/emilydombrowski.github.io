@@ -4,11 +4,10 @@ output: html_document
 
 ## *Curriculum Vitae*
 
-<!DOCTYPE html>
 <html>
 <body>
 <center>
-<embed src="https://emilydombrowski.github.io/Curriculum_Vitae.pdf" type="application/pdf" width="1000" height="1500" />
+<embed src="https://emilydombrowski.github.io/Emily_Dombrowski_CV.pdf" type="application/pdf" width="1000" height="1500" />
 </center>
 </body>
 </html>

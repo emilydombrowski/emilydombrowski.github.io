@@ -4,9 +4,7 @@ output: html_document
 
 ## Research
 
-[![Research Summary Video: Mussel Memory](https://img.youtube.com/vi/vVnvR5vUshk/0.jpg)](https://www.youtube.com/watch?v=vVnvR5vUshk)
-
-### Research Summary Video: Mussel Memory
+### [Research Summary Video: Mussel Memory](https://www.youtube.com/embed/vVnvR5vUshk/0)
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <iframe width="560" height="315" 
