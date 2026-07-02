@@ -9,3 +9,15 @@ output: html_document
 
 [![Research Summary Video: Mussel Memory](https://img.youtube.com/vi/vVnvR5vUshk/0.jpg)](https://www.youtube.com/watch?v=vVnvR5vUshk)
 
+### What can hybrid zones tell us about how organisms respond to climate change?
+
+Studying natural hybrid species gives scientists a window of understanding into how organisms respond to stressful situations. Hybridization occurs when two closely related species can reproduce and have offspring that successfully make it to adulthood. This phenomenon is widely spread across the plant and animal world. Naturally occurring hybrids provide scientists with really clear ideas about what factors cause species to differentiate and what genetic responses create new traits. 
+For my dissertation, I study replicated systems of hybrid mussels in Australia and France. Using experiments where I raise larval mussels in different temperatures, I investigate how hybrids genetically change when presented with projected future climate change scenarios. With this research, I hope to increase the understanding of what mechanisms make species succesful in novel scenarios. 
+
+### What are practical tools for dealing with invasive species?
+
+[Publication: Hemolymph-based molt prediction in the European green crab, *Carcinus maenas*: Potential tools for a soft-shell industry](Crane_et_al_2025.pdf)
+
+Invasive species cause economic and ecological harm to ecosystems. Often, invasives are transported by humans and there is little that can be done to manage them. Since humans caused this problem, is there an easy way to fix it?
+One of the most sustainable ways to get rid of invasive species is to...eat them! I collaborated with Wells Marine Lab in Maine to study how fishers can use green crab blood to create a green crab fishery. Green crabs may be consumed as a soft shell fishery item, however, their collection requires precise of understanding when crabs will molt. There are no visible signs of molting on green crabs, so instead, our lab group developed a way to use hemolymph (blood) to predict molting. This research equips coastal communities for the future of sustainable fishing with invasives. 
+

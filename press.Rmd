@@ -1,0 +1,32 @@
+---
+output: html_document
+---
+
+# In press
+
+## Lockwood Lab
+
+I am very lucky to be part of the Lockwood Lab at the University of Vermont. Read about my lab group and research in this article: [Pathways to Discovery: The Generations Behind a UVM Research Lab](https://www.uvm.edu/cas/biology/news/pathways-discovery-generations-behind-uvm-research-lab).
+
+## Fellowships
+
+I have been recognized for my research skills and commitment to inclusion for first generation students by a variety of nationally competitive fellowships. Here are some articles where I have been featured. 
+
+National Science Foundation Graduate Research Fellowship
+* [CofC Alumna Awarded NSF Graduate Research Fellowship](https://today.charleston.edu/2025/06/27/nsf-research-fellowship-emily-dombrowski/)
+* [Meet Biology Ph.D. Student Emily Dombrowski & the Mussels She's Studying](https://www.uvmfoundation.org/stories/meet-biology-phd-student-emily-dombrowski-and-the-mussels-shes-studying)
+
+Barry Goldwater Scholarship
+[3 Honors College Students Named Goldwater Scholars](https://today.cofc.edu/2022/03/31/3-honors-college-students-named-goldwater-scholars/)
+
+NOAA Hollings Scholarship
+[6 CofC Students, Grads Selected for Prestigious Scholarships](https://today.cofc.edu/2021/05/20/6-cofc-students-grads-selected-for-prestigious-scholarships/)
+
+## Outreach
+
+I have been dedicated to science communication since starting research as an undergraduate student. Here are links to articles about me participating in scientific outreach, some blog posts I made, and a podcast episode where I spoke about my research with horseshoe crabs. 
+
+* [Summer Research Program Reaches Young Audience with Science, Art](https://today.cofc.edu/2021/08/02/summer-research-program-reaches-young-audience-with-science-art/)
+* [Resilience and Response of Marine Organisms to Environmental Change Blog Posts](https://blogreu.wordpress.com/author/dombrowskieg2474/)
+* [Conservation Connection: "Humans in Coastal Environments"](REU Mini-Series:Episode 03 | Interns Adriana Apintiloaiei, Emily Dombrowski & Sophie Spiegel, “Humans in Coastal Environments”)
+
