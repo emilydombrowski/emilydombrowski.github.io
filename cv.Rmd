@@ -4,13 +4,11 @@ output: html_document
 
 ## *Curriculum Vitae*
 
-<div style="margin-bottom: 20px;">
-  <a class="btn btn-primary" href="Emily_Dombrowski_CV.pdf" download="Emily_Dombrowski_CV.pdf" role="button">
-    <i class="fa fa-download"></i> Download PDF CV
-  </a>
-</div>
-
-<object data="Emily_Dombrowski_CV.pdf" type="application/pdf" width="100%" height="800px">
-  <p>It appears your web browser doesn't support embedded PDFs. 
-  You can <a href="Emily_Dombrowski_CV.pdf">click here to download the PDF file.</a></p>
-</object>
+<!DOCTYPE html>
+<html>
+<body>
+<center>
+<embed src="https://emilydombrowski.github.io/Curriculum_Vitae.pdf" type="application/pdf" width="1000" height="1500" />
+</center>
+</body>
+</html>
